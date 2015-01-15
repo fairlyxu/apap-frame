@@ -1,0 +1,14 @@
+importfile('pt/G9PQ0282.txt');
+importfile('pt/G9PQ0283.txt');
+importfile('pt/G9PQ0284.txt');
+importfile('pt/G9PQ0285.txt');
+importfile('pt/G9PQ0286.txt');
+importfile('pt/G9PQ0282.txt');
+importfile('pt/G9PQ0282.txt');
+importfile('pt/G9PQ0282.txt');
+importfile('pt/G9PQ0282.txt');
+importfile('pt/G9PQ0282.txt');
+importfile('pt/G9PQ0282.txt');
+importfile('pt/G9PQ0282.txt');
+importfile('pt/G9PQ0282.txt');
+importfile('pt/G9PQ0282.txt');
