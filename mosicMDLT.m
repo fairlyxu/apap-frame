@@ -195,7 +195,8 @@ fprintf('done (%fs)\n',toc);
 
 % Blending images by averaging (linear blending)
 fprintf('  Moving DLT linear image blending (averaging)...');tic;
-mosicImag = imageblending(warped_img1,warped_img2);
+mosicImag = imageCovering(warped_img1,warped_img2);
+% mosicImag = imageblending(warped_img1,warped_img2);
 fprintf('done (%fs)\n',toc);
  
 fprintf('> Finished!.\n');

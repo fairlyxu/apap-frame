@@ -30,7 +30,7 @@ mosic = frame ;
  
 figure;imshow(mosic);
  
-imwrite(mosic,'mosic.jpg');
+imwrite(mosic,'Covering_mosic.jpg');
 
  
  
